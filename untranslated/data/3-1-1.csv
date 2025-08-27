@@ -1,1 +1,9 @@
-Year,Value
+Year,OBS_STATUS,UNIT_MULT,SOURCE_DETAIL,SERIES,REF_AREA,SEX,URBANISATION,UNIT_MEASURE,Value
+2004,E,0,Lesotho Demographic and Health Survey (2023),SH_STA_MORT,426,F,R,NUMBER,98
+2009,E,0,Lesotho Demographic and Health Survey (2023),SH_STA_MORT,426,F,R,NUMBER,76
+2014,E,0,Lesotho Demographic and Health Survey (2023),SH_STA_MORT,426,F,R,NUMBER,59
+2023,E,0,Lesotho Demographic and Health Survey (2023),SH_STA_MORT,426,F,R,NUMBER,97
+2004,E,0,Lesotho Demographic and Health Survey (2023),SH_STA_MORT,426,M,U,NUMBER,46
+2009,E,0,Lesotho Demographic and Health Survey (2023),SH_STA_MORT,426,M,U,NUMBER,93
+2014,E,0,Lesotho Demographic and Health Survey (2023),SH_STA_MORT,426,M,U,NUMBER,68
+2023,E,0,Lesotho Demographic and Health Survey (2023),SH_STA_MORT,426,M,U,NUMBER,71

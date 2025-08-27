@@ -1,1 +1,9 @@
-Year,Value
+Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,Sex,Degree of urbanisation,UNIT_MEASURE,Value
+2004,Estimated value,Units,Lesotho Demographic and Health Survey (2023),"Adolescent birth rate (per 1,000 women aged 15-19 and 10-14 years) [3.7.2]",Lesotho,Female,Rural,Number,91
+2009,Estimated value,Units,Lesotho Demographic and Health Survey (2023),"Adolescent birth rate (per 1,000 women aged 15-19 and 10-14 years) [3.7.2]",Lesotho,Female,Rural,Number,92
+2014,Estimated value,Units,Lesotho Demographic and Health Survey (2023),"Adolescent birth rate (per 1,000 women aged 15-19 and 10-14 years) [3.7.2]",Lesotho,Female,Rural,Number,26
+2023,Estimated value,Units,Lesotho Demographic and Health Survey (2023),"Adolescent birth rate (per 1,000 women aged 15-19 and 10-14 years) [3.7.2]",Lesotho,Female,Rural,Number,20
+2004,Estimated value,Units,Lesotho Demographic and Health Survey (2023),"Adolescent birth rate (per 1,000 women aged 15-19 and 10-14 years) [3.7.2]",Lesotho,Male,Urban,Number,97
+2009,Estimated value,Units,Lesotho Demographic and Health Survey (2023),"Adolescent birth rate (per 1,000 women aged 15-19 and 10-14 years) [3.7.2]",Lesotho,Male,Urban,Number,102
+2014,Estimated value,Units,Lesotho Demographic and Health Survey (2023),"Adolescent birth rate (per 1,000 women aged 15-19 and 10-14 years) [3.7.2]",Lesotho,Male,Urban,Number,141
+2023,Estimated value,Units,Lesotho Demographic and Health Survey (2023),"Adolescent birth rate (per 1,000 women aged 15-19 and 10-14 years) [3.7.2]",Lesotho,Male,Urban,Number,32

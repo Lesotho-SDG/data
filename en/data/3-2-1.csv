@@ -1,1 +1,9 @@
-Year,Value
+Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,Sex,Degree of urbanisation,UNIT_MEASURE,Value
+2004,Estimated value,Units,Lesotho Demographic and Health Survey (2023),Under-five mortality rate [3.2.1],Lesotho,Female,Rural,Number,102
+2009,Estimated value,Units,Lesotho Demographic and Health Survey (2023),Under-five mortality rate [3.2.1],Lesotho,Female,Rural,Number,141
+2014,Estimated value,Units,Lesotho Demographic and Health Survey (2023),Under-five mortality rate [3.2.1],Lesotho,Female,Rural,Number,32
+2023,Estimated value,Units,Lesotho Demographic and Health Survey (2023),Under-five mortality rate [3.2.1],Lesotho,Female,Rural,Number,21
+2004,Estimated value,Units,Lesotho Demographic and Health Survey (2023),Under-five mortality rate [3.2.1],Lesotho,Male,Urban,Number,91
+2009,Estimated value,Units,Lesotho Demographic and Health Survey (2023),Under-five mortality rate [3.2.1],Lesotho,Male,Urban,Number,92
+2014,Estimated value,Units,Lesotho Demographic and Health Survey (2023),Under-five mortality rate [3.2.1],Lesotho,Male,Urban,Number,26
+2023,Estimated value,Units,Lesotho Demographic and Health Survey (2023),Under-five mortality rate [3.2.1],Lesotho,Male,Urban,Number,20

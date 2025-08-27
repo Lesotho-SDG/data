@@ -1,1 +1,9 @@
-Year,Value
+Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,Sex,Degree of urbanisation,UNIT_MEASURE,Value
+2004,Estimated value,Units,Lesotho Demographic and Health Survey (2023),Neonatal mortality rate [3.2.2],Lesotho,Female,Rural,Number,46
+2009,Estimated value,Units,Lesotho Demographic and Health Survey (2023),Neonatal mortality rate [3.2.2],Lesotho,Female,Rural,Number,93
+2014,Estimated value,Units,Lesotho Demographic and Health Survey (2023),Neonatal mortality rate [3.2.2],Lesotho,Female,Rural,Number,68
+2023,Estimated value,Units,Lesotho Demographic and Health Survey (2023),Neonatal mortality rate [3.2.2],Lesotho,Female,Rural,Number,71
+2004,Estimated value,Units,Lesotho Demographic and Health Survey (2023),Neonatal mortality rate [3.2.2],Lesotho,Male,Urban,Number,29
+2009,Estimated value,Units,Lesotho Demographic and Health Survey (2023),Neonatal mortality rate [3.2.2],Lesotho,Male,Urban,Number,98
+2014,Estimated value,Units,Lesotho Demographic and Health Survey (2023),Neonatal mortality rate [3.2.2],Lesotho,Male,Urban,Number,76
+2023,Estimated value,Units,Lesotho Demographic and Health Survey (2023),Neonatal mortality rate [3.2.2],Lesotho,Male,Urban,Number,59

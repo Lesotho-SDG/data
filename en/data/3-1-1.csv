@@ -1,1 +1,9 @@
-Year,Value
+Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,Sex,Degree of urbanisation,UNIT_MEASURE,Value
+2004,Estimated value,Units,Lesotho Demographic and Health Survey (2023),Maternal mortality ratio [3.1.1],Lesotho,Female,Rural,Number,98
+2009,Estimated value,Units,Lesotho Demographic and Health Survey (2023),Maternal mortality ratio [3.1.1],Lesotho,Female,Rural,Number,76
+2014,Estimated value,Units,Lesotho Demographic and Health Survey (2023),Maternal mortality ratio [3.1.1],Lesotho,Female,Rural,Number,59
+2023,Estimated value,Units,Lesotho Demographic and Health Survey (2023),Maternal mortality ratio [3.1.1],Lesotho,Female,Rural,Number,97
+2004,Estimated value,Units,Lesotho Demographic and Health Survey (2023),Maternal mortality ratio [3.1.1],Lesotho,Male,Urban,Number,46
+2009,Estimated value,Units,Lesotho Demographic and Health Survey (2023),Maternal mortality ratio [3.1.1],Lesotho,Male,Urban,Number,93
+2014,Estimated value,Units,Lesotho Demographic and Health Survey (2023),Maternal mortality ratio [3.1.1],Lesotho,Male,Urban,Number,68
+2023,Estimated value,Units,Lesotho Demographic and Health Survey (2023),Maternal mortality ratio [3.1.1],Lesotho,Male,Urban,Number,71
