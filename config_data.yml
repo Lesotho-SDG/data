@@ -57,7 +57,7 @@ inputs:
     import_observation_attributes: true
     import_codes: true
     request_params: 
-   headers: 
+    headers: 
    User-Agent: Open-SDG-Build-1 
   - class: InputWordMeta
     path_pattern: meta/*-*.docm
