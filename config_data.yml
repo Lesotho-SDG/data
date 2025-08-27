@@ -52,11 +52,11 @@ inputs:
      - REPORTING_TYPE
      - NATURE
      - TIME_PERIOD
-   drop_singleton_dimensions: false
-   import_series_attributes: true
-   import_observation_attributes: true
-   import_codes: true
-   request_params: 
+    drop_singleton_dimensions: false
+    import_series_attributes: true
+    import_observation_attributes: true
+    import_codes: true
+    request_params: 
      headers: 
        User-Agent: Open-SDG-Build-1 
   - class: InputWordMeta
